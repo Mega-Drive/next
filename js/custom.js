@@ -367,6 +367,7 @@ jQuery(document).ready(function($)
 				items:1,
 				loop:true,
 				dots:false,
+				autoplay:true,
 				navSpeed: 1000,
 				smartSpeed: 1000,
 				autoplaySpeed: 1000
